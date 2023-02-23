@@ -35,6 +35,9 @@
             "migrations/.gitignore"
         ]
     },
+    "forestadmin/symfony-forestadmin": {
+        "version": "1.0.0-beta.7"
+    },
     "phpunit/phpunit": {
         "version": "9.6",
         "recipe": {
